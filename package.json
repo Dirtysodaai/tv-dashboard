@@ -1,9 +1,10 @@
 {
   "name": "tv-dashboard",
-  "version": "1.0.0",
-  "description": "Clock, weather and photo dashboard for TizenBrew",
+  "version": "2.0.0",
+  "description": "Clean home screen with app tiles and an idle dashboard, for TizenBrew",
   "packageType": "app",
-  "appName": "Dashboard",
+  "appName": "Home",
   "appPath": "app/index.html",
+  "serviceFile": "service.js",
   "keys": []
 }
