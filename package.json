@@ -1,0 +1,9 @@
+{
+  "name": "tv-dashboard",
+  "version": "1.0.0",
+  "description": "Clock, weather and photo dashboard for TizenBrew",
+  "packageType": "app",
+  "appName": "Dashboard",
+  "appPath": "app/index.html",
+  "keys": []
+}
